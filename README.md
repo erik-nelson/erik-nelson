@@ -3,7 +3,7 @@
 I'm a computer vision engineer with expertise in SLAM, autonomous driving, and robotics software architecture.
 
 ### I like working on:
-🛣️ pretty visualizations of large 3D maps
+🛣️ 3D maps: reconstruction, visualization, scaling
 
 ✨ lidar and point cloud data
 
