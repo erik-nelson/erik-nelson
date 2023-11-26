@@ -14,18 +14,20 @@ I'm a computer vision engineer with expertise in SLAM, autonomous driving, and r
 🥨 implementing Lie theory libraries and learning how the 3D world really works
 
 ### My history:
-🍎 I currently work on the computer vision algorithms team for the vision pro group at [Apple](https://www.apple.com/apple-vision-pro)
+🍎 [**2022-now**] I currently work on the computer vision algorithms team for the vision products group (VPG) @ [apple](https://www.apple.com/apple-vision-pro)
 
-🚘 previously I was a founding engineer at [Nuro](https://www.nuro.ai/), and helped build self driving delivery vehicles
+🚘 [**2016-2022**] previously I was a founding engineer @ [nuro.ai](https://www.nuro.ai/), and built the mapping and localization stacks for self driving delivery robots
 
-🚕 I spent a few summers working on self driving cars at [Waymo](https://waymo.com/) and [Google X](https://x.company/)
+☢️ [**2015-2016**] before that I was a PhD student @ [berkeley AI research lab](https://bair.berkeley.edu/) working on nuclear radiation mapping (I didn't finish...)
 
-☢️ before that I was a PhD student at Berkeley working on nuclear radiation mapping
+🚕 [**2015-2016**] I spent a few summers working on self driving cars @ [waymo](https://waymo.com/) and [google X](https://x.company/)
 
-🤖 at the dawn of time I did my masters degree in Robotics at CMU, building real-time 3D maps with quadrotors
+🤖 [**2013-2015**] I got my masters degree in [robotics @ CMU](https://www.ri.cmu.edu/), building real-time 3D maps with big lidar-equipped quadrotors
+
+💧 [**2009-2013**] in undergrad I worked on building 3D maps of underwater caves in Malta for archaeologists
 
 ### I'm:
-👶 a new dad
+👶 a new dad!
 
 🍺 a beer snob
 
