@@ -3,7 +3,7 @@
 I'm a computer vision engineer with expertise in SLAM, autonomous driving, and robotics software architecture.
 
 ### I like working on:
-🛣️ pretty visualizations of 3D maps
+🛣️ pretty visualizations of large 3D maps
 
 ✨ lidar and point cloud data
 
@@ -14,27 +14,21 @@ I'm a computer vision engineer with expertise in SLAM, autonomous driving, and r
 🥨 implementing Lie theory libraries and learning how the 3D world really works
 
 ### My history:
-🍎 I currently work on the computer vision algorithms team for the vision pro group at Apple.
+🍎 I currently work on the computer vision algorithms team for the vision pro group at [Apple](https://www.apple.com/apple-vision-pro)
 
-🚘 previously I was a founding engineer at Nuro, and helped build self driving delivery vehicles.
+🚘 previously I was a founding engineer at [Nuro](https://www.nuro.ai/), and helped build self driving delivery vehicles
 
-🚕 I spent a few summers working on self driving cars at Waymo / Google X.
+🚕 I spent a few summers working on self driving cars at [Waymo](https://waymo.com/) and [Google X](https://x.company/)
 
-☢️ before that I was a PhD student at Berkeley working on nuclear radiation mapping.
+☢️ before that I was a PhD student at Berkeley working on nuclear radiation mapping
 
-🤖 at the dawn of time I did my masters degree in Robotics at CMU, building real-time 3D maps with quadrotors.
+🤖 at the dawn of time I did my masters degree in Robotics at CMU, building real-time 3D maps with quadrotors
 
-<!--
-**erik-nelson/erik-nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm:
+👶 a new dad
 
-Here are some ideas to get you started:
+🍺 a beer snob
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥾 a LASHer (Long Ass Section Hiker)
+
+♟️embarrassing myself by learning to play Chess
