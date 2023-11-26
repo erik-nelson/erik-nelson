@@ -16,7 +16,7 @@ I'm a computer vision engineer with expertise in SLAM, autonomous driving, and r
 ### My history:
 🍎 [**2022-now**] I currently work on the computer vision algorithms team for the vision products group (VPG) @ [apple](https://www.apple.com/apple-vision-pro)
 
-🚘 [**2016-2022**] previously I was a founding engineer @ [nuro.ai](https://www.nuro.ai/), and built the mapping and localization stacks for self driving delivery robots
+🚘 [**2016-2022**] previously I was a founding engineer @ [nuro.ai](https://www.nuro.ai/), and built the mapping and localization stacks for self driving robots
 
 ☢️ [**2015-2016**] before that I was a PhD student @ [berkeley AI research lab](https://bair.berkeley.edu/) working on nuclear radiation mapping (I didn't finish...)
 
