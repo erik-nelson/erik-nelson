@@ -11,7 +11,7 @@ I'm a computer vision engineer with expertise in SLAM, autonomous driving, and r
 
 🗑️ cleaning up C++ code so that the reader gets warm tingly feelings
 
-🥨 implementing Lie theory libraries and learning how the 3D world really works
+🥨 Lie theory libraries and learning how the 3D world works
 
 ### My history:
 🍎 [**2022-now**] I currently work on the computer vision algorithms team for the vision products group (VPG) @ [apple](https://www.apple.com/apple-vision-pro)
@@ -31,6 +31,6 @@ I'm a computer vision engineer with expertise in SLAM, autonomous driving, and r
 
 🍺 a beer snob
 
-🥾 a LASHer (Long Ass Section Hiker)
+🥾 a LASHer
 
-♟️embarrassing myself by learning to play Chess
+♟️ learning to play Chess
